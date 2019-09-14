@@ -1,6 +1,10 @@
 #include<math.h>
+#include<std.h>
+#include<stdlib.h>
+#include<ctype.h>
+#include<string.h>
+#include<time.h>
 
-#include "kaprekarUtils.h"
 
 /**
  * <p>This function tests whether the given input <code>n</code>
